@@ -34,7 +34,7 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'responders'
 
-gem "react_on_rails", "~> 3.0.0-rc.1"
+gem 'react-rails'
 
 
 # Use Capistrano for deployment
